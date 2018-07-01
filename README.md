@@ -1,5 +1,9 @@
 # rnWorkshopMDevCamp2018
 Simple project created in class during the workshop "React Native - The rising unicorn of hybrid app development" in Prague (CZ), in 2018. This workshop was offered by mDevCamp Conference 2018.
+
+IDE: Visual Studio Code
+Programming Language: React Native
+
 =======
 Baseline project
 
