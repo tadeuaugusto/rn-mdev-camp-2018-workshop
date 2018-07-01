@@ -1,7 +1,7 @@
 # rnWorkshopMDevCamp2018
 Simple project created in class during the workshop "React Native - The rising unicorn of hybrid app development" in Prague (CZ), in 2018. This workshop was offered by mDevCamp Conference 2018.
 =======
-# mDevCamp 2018 React Native workshop baseline project
+Baseline project
 
 ## Requirements
 
