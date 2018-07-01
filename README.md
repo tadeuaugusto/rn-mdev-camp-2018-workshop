@@ -1,4 +1,3 @@
-<<<<<<< 5ad5c1442f7a6161f81fbe6cb3417c52c6131cda
 # rnWorkshopMDevCamp2018
 Simple project created in class during the workshop "React Native - The rising unicorn of hybrid app development" in Prague (CZ), in 2018. This workshop was offered by mDevCamp Conference 2018.
 =======
@@ -43,5 +42,4 @@ After `nvm` is available in your command line, you can easily install and switch
     npm start           # runs the javascript packager for development purposes
 
 Open `rn-workshop-mdevcamp2018/ios/RNmDevCamp2018.xcodeproj` in your XCode and press `Build and Run`
->>>>>>> Initial commit
-# rn-mdev-camp-2018-workshop
+
